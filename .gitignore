@@ -1,0 +1,10 @@
+# ref: https://qiita.com/hgsgtk/items/dbaaa7dcc861b7b76949
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
